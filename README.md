@@ -12,4 +12,4 @@ ana.andreani@escola.pr.gov.br
 
 @analuiza
 
-![descrição do GIF](link GIF do Tenor)
+![](https://media.tenor.com/Z6l7nsvFqf0AAAAi/cat-kitten.gif)
