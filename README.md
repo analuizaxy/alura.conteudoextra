@@ -1,1 +1,15 @@
-# alura.conteudoextra
+### Boas vindas ao meu perfil 🖤
+
+Meu nome é Ana Luiza
+
+- Estou estudando na 
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo 📫
+
+ana.andreani@escola.pr.gov.br
+
+@analuiza
+
+![descrição do GIF](link GIF do Tenor)
